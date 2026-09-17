@@ -1,90 +1,34 @@
 {
-  "schemaVersion": 1,
-  "identifier": "com.mhieuushinn.shinncheat",
   "name": "ShinnCheat Repository",
-  "description": "Telegram: @ShinnThieuu",
-  "accentColor": "#007AFF",
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
-  "packages": [
+  "identifier": "com.mhieuushinn.shinncheat",
+  "subtitle": "Telegram: @ShinnThieuu",
+  "description": "Nguồn ShinnCheat dành cho Free Fire",
+  "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
+  "website": "https://t.me/ShinnThieuu",
+  "apps": [
     {
-      "identifier": "ffth-esp-aim",
       "name": "Free Fire",
-      "author": "mhieuushinn-dev",
+      "bundleIdentifier": "com.dts.freefireth",
+      "developerName": "mhieuushinn-dev",
+      "subtitle": "ShinnCheat",
       "version": "1.100.1",
-      "summary": "ShinnCheat • ESP AIM FFTH",
-      "description": "Telegram: @ShinnThieuu",
-      "category": "Game",
-      "tags": [
-        "Game",
-        "ShinnCheat"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 100000000,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": true,
-      "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+      "versionDate": "2026-09-18T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
+      "localizedDescription": "ShinnCheat • Free Fire",
+      "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
+      "size": 100000000
     },
     {
-      "identifier": "ffm-esp-aim",
       "name": "Free Fire MAX",
-      "author": "mhieuushinn-dev",
+      "bundleIdentifier": "com.dts.freefiremax",
+      "developerName": "mhieuushinn-dev",
+      "subtitle": "ShinnCheat",
       "version": "1.100.1",
-      "summary": "ShinnCheat • ESP AIM FFM",
-      "description": "Telegram: @ShinnThieuu",
-      "category": "Game",
-      "tags": [
-        "Game",
-        "ShinnCheat"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 100000000,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": true,
-      "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+      "versionDate": "2026-09-18T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+      "localizedDescription": "ShinnCheat • Free Fire MAX",
+      "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg",
+      "size": 100000000
     }
   ]
 }
