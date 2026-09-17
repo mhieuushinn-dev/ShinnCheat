@@ -13,10 +13,9 @@
       "version": "1.100.1",
       "summary": "ShinnCheat • ESP AIM FFTH",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Game",
+      "category": "FFTH",
       "tags": [
-        "Game",
-        "ShinnCheat"
+        "FFTH"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
@@ -44,7 +43,7 @@
       ],
       "featured": true,
       "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     },
     {
       "identifier": "com.dts.freefiremax",
@@ -53,10 +52,9 @@
       "version": "1.100.1",
       "summary": "ShinnCheat • ESP AIM FFM",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Game",
+      "category": "FFM",
       "tags": [
-        "Game",
-        "ShinnCheat"
+        "FFM"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
@@ -84,7 +82,7 @@
       ],
       "featured": true,
       "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0564.jpeg"
     }
   ]
 }
