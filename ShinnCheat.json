@@ -8,7 +8,7 @@
   "packages": [
     {
       "identifier": "com.dts.freefireth",
-      "name": "Free Fire",
+      "name": "ESP+AIM Free Fire",
       "author": "Shinn Cheat",
       "version": "1.100.1",
       "summary": "ESP+AIM Free Fire",
@@ -47,7 +47,7 @@
     },
     {
       "identifier": "com.dts.freefiremax",
-      "name": "Free Fire MAX",
+      "name": "ESP+AIM Free Fire Max",
       "author": "Shinn Cheat",
       "version": "1.100.1",
       "summary": "ESP+AIM Free Fire Max",
