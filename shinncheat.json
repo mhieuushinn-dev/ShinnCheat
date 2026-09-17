@@ -1,0 +1,30 @@
+{
+  "name": "ShinnCheat Repository",
+  "subtitle": "Telegram: @ShinnThieuu",
+  "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/icons/logo.png",
+  "website": "https://github.com/mhieuushinn-dev/ShinnCheat",
+  "apps": [
+    {
+      "name": "Free Fire ",
+      "bundleIdentifier": "com.dts.freefireth",
+      "version": "1.100.1",
+      "versionDate": "2026-09-18",
+      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/files/freefire.ipa",
+      "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/icons/ff.png",
+      "category": "Free Fire",
+      "developerName": "mhieuushinn-dev",
+      "localizedDescription": "Gói ứng dụng / tính năng dành riêng cho Free Fire bản thường."
+    },
+    {
+      "name": "Free Fire MAX",
+      "bundleIdentifier": "com.dts.freefiremax",
+      "version": "1.100.1",
+      "versionDate": "2026-09-18",
+      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/files/freefiremax.ipa",
+      "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/icons/ffmax.png",
+      "category": "Free Fire MAX",
+      "developerName": "mhieuushinn-dev",
+      "localizedDescription": "Gói ứng dụng / tính năng dành riêng cho Free Fire MAX."
+    }
+  ]
+}
