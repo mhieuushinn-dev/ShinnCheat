@@ -9,13 +9,13 @@
     {
       "identifier": "com.dts.freefireth",
       "name": "Free Fire",
-      "author": "mhieuushinn-dev",
-      "version": "1.100.1",
-      "summary": "ShinnCheat • ESP AIM FFTH",
+      "author": "NgVuMinhHieuu",
+      "version": "2009",
+      "summary": "ESP AIM FFTH",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "FFTH",
+      "category": "Free Fire",
       "tags": [
-        "FFTH"
+        "Free Fire"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
@@ -48,13 +48,13 @@
     {
       "identifier": "com.dts.freefiremax",
       "name": "Free Fire MAX",
-      "author": "mhieuushinn-dev",
-      "version": "1.100.1",
-      "summary": "ShinnCheat • ESP AIM FFM",
+      "author": "NgVuMinhHieuu",
+      "version": "2009",
+      "summary": "ESP AIM FFM",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "FFM",
+      "category": "Free Fire Max",
       "tags": [
-        "FFM"
+        "Free Fire Max"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
