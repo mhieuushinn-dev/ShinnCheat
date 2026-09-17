@@ -13,14 +13,12 @@
       "version": "2009",
       "summary": "ESP AIM FFTH",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Free Fire",
+      "category": "FFTH",
       "tags": [
-        "Free Fire"
+        "FFTH"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
-      "sha256": "ca47053aad7c5559150171449f3b4dcce6bd634c72734bb3bcdb3e181ba2d916",
-      "size": 100000000,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -52,14 +50,12 @@
       "version": "2009",
       "summary": "ESP AIM FFM",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Free Fire Max",
+      "category": "FFM",
       "tags": [
-        "Free Fire Max"
+        "FFM"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
-      "sha256": "4deb7375b213e793892f0fa8197a509af5ddf39b9c8153f8bb7932e967ca0aae",
-      "size": 100000000,
       "supportedOS": [
         {
           "minimum": "17.0",
