@@ -1,5 +1,6 @@
 {
   "name": "ShinnCheat Repository",
+  "identifier": "com.mhieuushinn.shinncheat",
   "subtitle": "Telegram: @ShinnThieuu",
   "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
   "website": "https://github.com/mhieuushinn-dev/ShinnCheat",
@@ -7,24 +8,24 @@
     {
       "name": "Free Fire",
       "bundleIdentifier": "com.dts.freefireth",
+      "developerName": "mhieuushinn-dev",
       "version": "1.100.1",
       "versionDate": "2026-09-18",
       "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
       "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
       "category": "Free Fire",
-      "developerName": "mhieuushinn-dev",
-      "localizedDescription": "Feed Back Telegram:@ShinnThieuu."
+      "localizedDescription": "Feed Back Telegram: @ShinnThieuu."
     },
     {
       "name": "Free Fire MAX",
       "bundleIdentifier": "com.dts.freefiremax",
+      "developerName": "mhieuushinn-dev",
       "version": "1.100.1",
       "versionDate": "2026-09-18",
       "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
       "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg",
       "category": "Free Fire MAX",
-      "developerName": "mhieuushinn-dev",
-      "localizedDescription": "Feed Back Telegram:@ShinnThieuu."
+      "localizedDescription": "Feed Back Telegram: @ShinnThieuu."
     }
   ]
 }
