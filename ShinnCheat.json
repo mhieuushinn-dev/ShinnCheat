@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.mhieuushinn.shinncheat",
+  "name": "NgVuMinhHieuu",
+  "description": "Telegram: @ShinnThieuu",
+  "accentColor": "#000000",
+  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
+  "packages": [
+    {
+      "identifier": "com.dts.freefireth",
+      "name": "ESP+AIM Free Fire",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP+AIM Free Fire",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
+      "sha256": "514eac1fdfef16e8b0146b260532671d63802006926e5675ce0e259df7feab70",
+      "size": 14326,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.dts.freefiremax",
+      "name": "ESP+AIM Free Fire Max",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP+AIM Free Fire Max",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+      "sha256": "70633e154c8f753b38b24875cda53d1e8d56d97276b957ba1e893239aaf60e16",
+      "size": 14326,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0564.jpeg"
+    },
+    {
+      "identifier": "com.dts.menufth",
+      "name": "Menu Free Fire",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Free Fire",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFTH.3105",
+      "sha256": "eea71a2924bf533cc138a1b6374df12f59bba01d801e331a61d3a6fdf63753f8",
+      "size": 21536,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.dts.menuffm",
+      "name": "Menu Free Fire MAX",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Free Fire MAX",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
+      "sha256": "1d402464a498f3b4380055973ade55c0e9469a7a2f844719f53dc0f41989d336",
+      "size": 21341,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0564.jpeg"
+    }
+  ]
+}
