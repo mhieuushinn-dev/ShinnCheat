@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.mhieuushinn.menufft",
+  "name": "Free Fire - NgVuMinhHieuu",
+  "description": "Telegram: @ShinnThieuu",
+  "accentColor": "#000000",
+  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
+  "packages": [
+    {
+      "identifier": "com.shinn.menufft",
+      "name": "Free Fire",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Free Fire - Menu FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MENU FFT",
+      "tags": ["Menu FFT"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFT.3105",
+      "size": 2048000,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimfft",
+      "name": "ESP-AIM FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Free Fire - ESP-AIM FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": ["ESP-AIM FFT"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFT.3105",
+      "size": 1536000,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    }
+  ]
+}
