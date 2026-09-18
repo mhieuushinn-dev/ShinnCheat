@@ -241,6 +241,46 @@
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
     },
     {
+      "identifier": "com.shinn.espaimffth",
+      "name": "ESP + Aim FFTH",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP + Aim FFTH",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Aim FFT",
+      "tags": [
+        "ESP",
+        "Aim FFTH"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/EspAimFFTH.bin",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
       "identifier": "com.shinn.modgojo",
       "name": "Mod Gojo",
       "author": "Shinn Cheat",
@@ -294,6 +334,84 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ModVipFFT.bin",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "size": 2558525,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menuffth",
+      "name": "Menu FFTH",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu FFTH",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Mod VIP",
+      "tags": [
+        "Menu FFTH"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/MenuFFTH.bin",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 2048000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.ffm",
+      "name": "FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Mod VIP",
+      "tags": [
+        "FFM"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/FFM.bin",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1536000,
       "supportedOS": [
         {
           "minimum": "17.0",
