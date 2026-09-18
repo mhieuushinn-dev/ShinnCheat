@@ -3,7 +3,7 @@
   "identifier": "com.mhieuushinn.shinncheat",
   "name": "NgVuMinhHieuu",
   "description": "Telegram: @ShinnThieuu",
-  "accentColor": "#C8ACD6",
+  "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
   "packages": [
     {
