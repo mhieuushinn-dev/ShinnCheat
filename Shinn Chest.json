@@ -14,7 +14,7 @@
       "summary": "AIM - Body",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "AIM",
-      "tags": ["AIM"],
+      "tags": ["AIM", "Free Fire"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body.3105",
       "sha256": "cf55ba3c5f6e7051a0c2ba409f079b7829cd2d2ad23b61dd269d00acdd090718",
@@ -51,7 +51,7 @@
       "summary": "AIM - Neck",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "AIM",
-      "tags": ["AIM"],
+      "tags": ["AIM", "Free Fire"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Neck.3105",
       "sha256": "ae84b24f05819a05b7c696e90fad8b74a7c15acc890d093a4a2d4957b9f4d453",
@@ -88,7 +88,7 @@
       "summary": "AIM - Chest",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "AIM",
-      "tags": ["AIM"],
+      "tags": ["AIM", "Free Fire"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Chest.3105",
       "sha256": "3f3572ea3ba9bf62b180830d697ca7cfbe74487eae6cbf86403238412129d0d1",
@@ -125,48 +125,11 @@
       "summary": "AIM - Drag",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "AIM",
-      "tags": ["AIM"],
+      "tags": ["AIM", "Free Fire"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Drag.3105",
       "sha256": "04960eb6f452ea50c71a32c7b0c5b5f4e3aff80fc4978633c4d91956fa059d04",
       "size": 64602,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
-    },
-    {
-      "identifier": "com.shinn.aimbung",
-      "name": "Bụng",
-      "author": "Shinn Cheat",
-      "version": "2009",
-      "summary": "AIM - Bụng",
-      "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "AIM",
-      "tags": ["AIM"],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Bu%CC%A3ng.3105",
-      "sha256": "71f9bd8552ba27ddf33b2e3f3ab4efcebe1bec78c5d82781f49fecab9c9b9ac2",
-      "size": 64606,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -199,11 +162,85 @@
       "summary": "AIM - Magic",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "AIM",
-      "tags": ["AIM"],
+      "tags": ["AIM", "Free Fire"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Magic.3105",
       "sha256": "20f45c6c727ad876763e878998308f99b2e58605423377fe25a4b9ce51bc1024",
       "size": 64603,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimbodyffm",
+      "name": "Body FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Body FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["AIM", "Free Fire Max"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body%20FFM.3105",
+      "sha256": "dbbf3b3489d1f6852609790bee98acc13807e4813a0f0dac1c37b30958b6b081",
+      "size": 64601,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimrobffm",
+      "name": "Rob FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Rob FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["AIM", "Free Fire Max"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Rob%20FFM.3105",
+      "sha256": "0bd83a1f051813ce3a16ccbd83a92780da248a8ba8f4030b48222f90274480b3",
+      "size": 64600,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -384,7 +421,7 @@
       "summary": "Menu Free Fire Max",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "Free Fire Max",
-      "tags": ["Menu Free Fire Max"],
+      "tags": ["Free Fire Max"],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
       "sha256": "4250e5900094ed2333865c6c9a4a02c23124d97be022dac918ebe2df9d591e8b",
