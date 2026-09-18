@@ -358,45 +358,6 @@
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png"
     },
     {
-      "identifier": "com.shinn.espaimffth",
-      "name": "ESP-AIM FFTH",
-      "author": "Shinn Cheat",
-      "version": "2009",
-      "summary": "MENU FFTH - ESP-AIM FFTH",
-      "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFTH",
-      "tags": [
-        "ESP-AIM FFTH"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
-      "sha256": "687590e90a2b73f717fec4142b5440e113e6752bc587cb4c840f69fc0636e7a1",
-      "size": 14326,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png"
-    },
-    {
       "identifier": "com.shinn.menuffth",
       "name": "Menu FFTH",
       "author": "Shinn Cheat",
@@ -450,45 +411,6 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
       "sha256": "038a8c7eb7fff7e67820b44666d4cff9cdea3109832de5b21ad2320cfb4059e8",
       "size": 14326,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png"
-    },
-    {
-      "identifier": "com.shinn.menufft",
-      "name": "Menu FFT",
-      "author": "Shinn Cheat",
-      "version": "2009",
-      "summary": "MENU FFT - Menu FFT",
-      "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFT",
-      "tags": [
-        "Menu FFT"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFTH%281%29.3105",
-      "sha256": "23d1709fd603e1e34f4fabb2f691d2e102519b3823dfb20318e4567c1aa2b238",
-      "size": 21536,
       "supportedOS": [
         {
           "minimum": "17.0",
