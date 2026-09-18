@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.mhieuushinn.shinncheat",
-  "name": "BoLaMhieuu",
+  "name": "Shinn Cheat All-in-One",
   "description": "Telegram: @ShinnThieuu",
   "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
@@ -320,19 +320,19 @@
     },
     {
       "identifier": "com.shinn.menuffm",
-      "name": "Menu FFM",
+      "name": "Free Fire Max",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MENU FFM - Menu FFM",
+      "summary": "Free Fire Max",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFM",
+      "category": "Free Fire Max",
       "tags": [
-        "Menu FFM"
+        "Free Fire Max"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
       "sha256": "1618ba492e99e0a81d472792f28f1b18272e44071bd55ad9e5b18362a516c214",
-      "size": 21341,
+      "size": 21536,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -359,14 +359,14 @@
     },
     {
       "identifier": "com.shinn.menuffth",
-      "name": "Menu FFTH",
+      "name": "Free Fire",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MENU FFTH - Menu FFTH",
+      "summary": "Free Fire",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFTH",
+      "category": "Free Fire",
       "tags": [
-        "Menu FFTH"
+        "Free Fire"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFTH.3105",
@@ -398,19 +398,19 @@
     },
     {
       "identifier": "com.shinn.espaimffm",
-      "name": "ESP-AIM FFM",
+      "name": "ESP-AIM Free Fire Max",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MENU FFM - ESP-AIM FFM",
+      "summary": "ESP-AIM Free Fire Max",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFM",
+      "category": "Free Fire Max",
       "tags": [
-        "ESP-AIM FFM"
+        "ESP-AIM Free Fire Max"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
       "sha256": "038a8c7eb7fff7e67820b44666d4cff9cdea3109832de5b21ad2320cfb4059e8",
-      "size": 14326,
+      "size": 14316,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -437,19 +437,19 @@
     },
     {
       "identifier": "com.shinn.espaimffth",
-      "name": "ESP-AIM FFTH",
+      "name": "ESP-AIM Free Fire",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MENU FFTH - ESP-AIM FFTH",
+      "summary": "ESP-AIM Free Fire",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFTH",
+      "category": "Free Fire",
       "tags": [
-        "ESP-AIM FFTH"
+        "ESP-AIM Free Fire"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFTH.3105",
       "sha256": "687590e90a2b73f717fec4142b5440e113e6752bc587cb4c840f69fc0636e7a1",
-      "size": 14326,
+      "size": 14316,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -476,19 +476,19 @@
     },
     {
       "identifier": "com.shinn.espaimfft",
-      "name": "ESP-AIM FFT",
+      "name": "ESP-AIM Free Fire",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MENU FFT - ESP-AIM FFT",
+      "summary": "ESP-AIM Free Fire",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "MENU FFT",
+      "category": "Free Fire",
       "tags": [
-        "ESP-AIM FFT"
+        "ESP-AIM Free Fire"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM.3105",
       "sha256": "ae84b24f05819a05b7c696e90fad8b74a7c15acc890d093a4a2d4957b9f4d453",
-      "size": 14326,
+      "size": 14316,
       "supportedOS": [
         {
           "minimum": "17.0",
