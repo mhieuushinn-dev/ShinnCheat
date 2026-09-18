@@ -192,6 +192,43 @@
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
     },
     {
+      "identifier": "com.shinn.modignisfft",
+      "name": "Mod IGNIS FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod IGNIS FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": ["MOD SKIN"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20IGNIS%20FFT.3105",
+      "sha256": "38f28a8d11111111111111111111111111111111111111111111111111111138",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
       "identifier": "com.shinn.modvipfft",
       "name": "Mod Vip FFT",
       "author": "Shinn Cheat",
