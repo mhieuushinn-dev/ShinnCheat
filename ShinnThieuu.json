@@ -229,6 +229,80 @@
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
     },
     {
+      "identifier": "com.shinn.modthoffm",
+      "name": "Mod Thỏ FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Thỏ FFM",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": ["MOD SKIN"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Th%E1%BB%A3%20FFM.3105",
+      "sha256": "71f9bd8552ba27ddf33b2e3f3ab4efcebe1bec78c5d82781f49fecab9c9b9ac2",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modthofft",
+      "name": "Mod Thỏ FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Thỏ FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": ["MOD SKIN"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Th%E1%BB%A3%20FFT.3105",
+      "sha256": "ae84b24f05819a05b7c696e90fad8b74a7c15acc890d093a4a2d4957b9f4d453",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
       "identifier": "com.shinn.modvipfft",
       "name": "Mod Vip FFT",
       "author": "Shinn Cheat",
