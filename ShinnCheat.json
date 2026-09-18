@@ -1,90 +1,182 @@
 {
   "schemaVersion": 1,
   "identifier": "com.mhieuushinn.shinncheat",
-  "name": "Shinn Cheat - NgVuMinhHieuu",
+  "name": "Shinn Cheat All-in-One",
   "description": "Telegram: @ShinnThieuu",
   "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
   "packages": [
     {
-      "identifier": "com.shinn.aim",
-      "name": "Aim",
+      "identifier": "com.shinn.aimbody",
+      "name": "Body",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "Aim FFT - Aim",
+      "summary": "AIM - Body",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Aim FFT",
-      "tags": [
-        "Aim Body",
-        "Aim Neck",
-        "Aim Chest",
-        "Aim Drag",
-        "Aim Bụng",
-        "Aim Magic"
-      ],
+      "category": "AIM",
+      "tags": ["Body"],
       "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Aim.3105",
-      "sha256": "SHA256_AIM",
-      "size": 0,
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
     },
     {
-      "identifier": "com.shinn.modskin",
-      "name": "Mod Skin",
+      "identifier": "com.shinn.aimneck",
+      "name": "Neck",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "Mod Skin - Gojo + VIP FFT",
+      "summary": "AIM - Neck",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Mod VIP",
-      "tags": [
-        "Gojo",
-        "VIP FFT"
-      ],
+      "category": "AIM",
+      "tags": ["Neck"],
       "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ModSkin.3105",
-      "sha256": "SHA256_MODSKIN",
-      "size": 0,
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Neck.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimchest",
+      "name": "Chest",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Chest",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["Chest"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Chest.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimdrag",
+      "name": "Drag",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Drag",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["Drag"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Drag.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimbung",
+      "name": "Bụng",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Bụng",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["Bụng"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/B%E1%BB%A5ng.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
+      "identifier": "com.shinn.aimmagic",
+      "name": "Magic",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Magic",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["Magic"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Magic.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 10517,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modgojoffm",
+      "name": "Mod Gojo FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Gojo FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": ["Mod Gojo FFM"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1887437,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modvipfft",
+      "name": "Mod Vip FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Vip FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": ["Mod Vip FFT"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFT.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 2558525,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false,
@@ -95,37 +187,40 @@
       "name": "Menu FFM",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "Menu FFM - ESP + Aim FFM",
+      "summary": "MENU FFM - Menu FFM",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Mod VIP",
-      "tags": [
-        "Menu FFM",
-        "ESP",
-        "Aim FFM"
-      ],
+      "category": "MENU FFM",
+      "tags": ["Menu FFM"],
       "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/MenuFFM.3105",
-      "sha256": "SHA256_MENU_FFM",
-      "size": 0,
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 2048000,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimffm",
+      "name": "ESP-AIM FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MENU FFM - ESP-AIM FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MENU FFM",
+      "tags": ["ESP-AIM FFM"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1536000,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false,
@@ -136,37 +231,40 @@
       "name": "Menu FFT",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "Menu FFT - ESP + Aim FFT",
+      "summary": "MENU FFT - Menu FFT",
       "description": "Feed Back Telegram: @ShinnThieuu.",
-      "category": "Mod VIP",
-      "tags": [
-        "Menu FFT",
-        "ESP",
-        "Aim FFT"
-      ],
+      "category": "MENU FFT",
+      "tags": ["Menu FFT"],
       "publishedAt": "2026-09-18T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/MenuFFT.3105",
-      "sha256": "SHA256_MENU_FFT",
-      "size": 0,
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFT.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 2048000,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimfft",
+      "name": "ESP-AIM FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MENU FFT - ESP-AIM FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MENU FFT",
+      "tags": ["ESP-AIM FFT"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFT.3105",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1536000,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false,
