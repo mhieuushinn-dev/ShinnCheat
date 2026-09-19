@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.mhieuushinn.shinncheat",
-  "name": "NgVuMinhHieuu",
+  "name": "NgVuMimhHieuu",
   "description": "Telegram: @ShinnThieuu",
   "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
@@ -261,6 +261,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
       "sha256": "c66238ac67eb47e0cf1c671e8e53cf096b920a2f143587eaea679f1b8b1a2ea6",
       "size": 1886514,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
@@ -278,6 +283,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFT.3105",
       "sha256": "4005163e8112f00967dd0733f9fd9c72f291122068d72aef64cde2e871bf1320",
       "size": 2556170,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
@@ -295,6 +305,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Dam.3105",
       "sha256": "6b97bdc13c32050e74a7f11f98cfbc6d8abc500d70581286d950c99587e4574b",
       "size": 2618230,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
@@ -312,6 +327,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20TVC1-2.3105",
       "sha256": "ed4bab50a582098d4dffd121d6a35ae9c5394f7ccf7957a09eb5e58084dc2190",
       "size": 2618233,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
@@ -329,6 +349,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFTH%20prolayer.3105",
       "sha256": "c9c314665836d7219ea4a43a7771aea9fe1079fb4cafe56ae8adb0c189005c9c",
       "size": 2618238,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
@@ -346,6 +371,11 @@
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFM%20TVC%201-2.3105",
       "sha256": "eeb85be8a57e22db53030df08b9c4d449c487c6e0b6c479ca219b72ae8a5ea00",
       "size": 1875959,
+      "supportedOS": [
+        {"minimum": "17.0", "maximum": "18.7.1"},
+        {"minimum": "26.0", "maximum": "26.6.1"},
+        {"minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]}
+      ],
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
