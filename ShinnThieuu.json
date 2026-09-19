@@ -1,117 +1,126 @@
 {
-  "author": "Shinn Cheat",
-  "version": "2009",
-  "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
-  "publishedAt": "2026-09-19T00:00:00Z",
-  "featured": false,
-  "isPrivate": false,
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
-  "supportedOS": [
+  "schemaVersion": 1,
+  "identifier": "com.mhieuushinn.ffrepo",
+  "name": "Telegram: @ShinnThieuu",
+  "description": "Telegram: @ShinnThieuu",
+  "icon": "IMG_20260819005845878.png",
+  "packages": [
     {
-      "minimum": "17.0",
-      "maximum": "18.7.1"
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.modfftalok",
+      "name": "Mod FFT Alok",
+      "summary": "MOD VIP - Mod FFT Alok",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Alok.3105",
+      "sha256": "131f252480fe34eacf4e83e71af15429be8c191da99703b1db255ed45736399b",
+      "size": 2556165
     },
     {
-      "minimum": "26.0",
-      "maximum": "26.6.1"
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.spiderfft",
+      "name": "Spider FFT",
+      "summary": "MOD VIP - Spider FFT",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFT.3105",
+      "sha256": "f0348d01b7ee19c56b1dcb9ac49e875a6cbefce6b4dbf511b80a85a373d10165",
+      "size": 2556163
     },
     {
-      "minimum": "27.0",
-      "maximum": "27.0",
-      "builds": [
-        "24A5355q",
-        "24A5370h",
-        "24A5380h",
-        "24A5390f"
-      ]
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.spiderffm",
+      "name": "Spider FFM",
+      "summary": "MOD VIP - Spider FFM",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFM.3105",
+      "sha256": "55a0073f2d4f16b371b20571a123ecfc554b7f3905e7ad9582042032373d71f0",
+      "size": 1886506
     }
-  ],
-  "identifier": "com.shinn.modfftalok",
-  "name": "Mod FFT Alok",
-  "summary": "MOD VIP - Mod FFT Alok",
-  "category": "MOD VIP",
-  "tags": [
-    "MOD VIP"
-  ],
-  "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Alok.3105",
-  "sha256": "131f252480fe34eacf4e83e71af15429be8c191da99703b1db255ed45736399b",
-  "size": 2556165
-},
-{
-  "author": "Shinn Cheat",
-  "version": "2009",
-  "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
-  "publishedAt": "2026-09-19T00:00:00Z",
-  "featured": false,
-  "isPrivate": false,
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
-  "supportedOS": [
-    {
-      "minimum": "17.0",
-      "maximum": "18.7.1"
-    },
-    {
-      "minimum": "26.0",
-      "maximum": "26.6.1"
-    },
-    {
-      "minimum": "27.0",
-      "maximum": "27.0",
-      "builds": [
-        "24A5355q",
-        "24A5370h",
-        "24A5380h",
-        "24A5390f"
-      ]
-    }
-  ],
-  "identifier": "com.shinn.spiderfft",
-  "name": "Spider FFT",
-  "summary": "MOD VIP - Spider FFT",
-  "category": "MOD VIP",
-  "tags": [
-    "MOD VIP"
-  ],
-  "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFT.3105",
-  "sha256": "f0348d01b7ee19c56b1dcb9ac49e875a6cbefce6b4dbf511b80a85a373d10165",
-  "size": 2556163
-},
-{
-  "author": "Shinn Cheat",
-  "version": "2009",
-  "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
-  "publishedAt": "2026-09-19T00:00:00Z",
-  "featured": false,
-  "isPrivate": false,
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
-  "supportedOS": [
-    {
-      "minimum": "17.0",
-      "maximum": "18.7.1"
-    },
-    {
-      "minimum": "26.0",
-      "maximum": "26.6.1"
-    },
-    {
-      "minimum": "27.0",
-      "maximum": "27.0",
-      "builds": [
-        "24A5355q",
-        "24A5370h",
-        "24A5380h",
-        "24A5390f"
-      ]
-    }
-  ],
-  "identifier": "com.shinn.spiderffm",
-  "name": "Spider FFM",
-  "summary": "MOD VIP - Spider FFM",
-  "category": "MOD VIP",
-  "tags": [
-    "MOD VIP"
-  ],
-  "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFM.3105",
-  "sha256": "55a0073f2d4f16b371b20571a123ecfc554b7f3905e7ad9582042032373d71f0",
-  "size": 1886506
+  ]
 }
