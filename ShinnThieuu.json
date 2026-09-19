@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.mhieuushinn.ffrepo",
-  "name": "Telegram: ShinnThieuu",
+  "name": "Telegram: @ShinnThieuu",
   "description": "Telegram: @ShinnThieuu",
   "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
@@ -245,7 +245,7 @@
       "name": "Mod Thỏ FFM",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MOD SKIN - Mod Thỏ FFM",
+      "summary": "MOD VIP - Mod Thỏ FFM",
       "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
       "category": "MOD VIP",
       "tags": [
@@ -253,8 +253,8 @@
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Th%E1%BB%8F%20FFM.3105",
-      "sha256": "71f9bd8552ba27ddf33b2e3f3ab4efcebe1bec78c5d82781f49fecab9c9b9ac2",
-      "size": 2500000,
+      "sha256": "de228a7c4bc28f9d9f674b44b077baa87eff99543fb8c5c5cf1736e68288d79c",
+      "size": 1875964,
       "supportedOS": [
         {
           "minimum": "17.0",
