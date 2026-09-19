@@ -363,6 +363,15 @@
   "download":"https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105
   "sha256":"f2c6a1b6623452a83c81c5558178e5e264737fc3c9b765f81bcca2823ec0f185",
   "size":135316,
+  "supportedOS":[
+  {"minimum":"17.0","maximum":"18.7.1"},
+  {"minimum":"26.0","maximum":"26.6.1"},
+  {
+    "minimum":"27.0",
+    "maximum":"27.0",
+    "builds":["24A5355q","24A5370h","24A5380h","24A5390f"]
+  }
+],
   "featured":false,
   "isPrivate":false,
   "icon":"https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
