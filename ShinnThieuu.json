@@ -1,26 +1,533 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.mhieuushinn.liqi",
-  "name": "LiQi - Lien Quan Mobile",
+  "identifier": "com.mhieuushinn.ffrepo",
+  "name": "Telegram: @ShinnThieuu",
   "description": "Telegram: @ShinnThieuu",
   "accentColor": "#000000",
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg",
+  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
   "packages": [
     {
-      "identifier": "com.shinn.lienquanmobile",
-      "name": "Lien Quan Mobile",
+      "identifier": "com.shinn.menuffth",
+      "name": "Menu Free Fire",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "LiQi - Lien Quan Mobile",
+      "summary": "Free Fire",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFTH.3105",
+      "sha256": "d6eeb89fee3c833e0b542b3947117f56dd4ac9d0df6ee6832328c221f10f3f77",
+      "size": 21530,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimffth",
+      "name": "ESP-AIM Free Fire",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP-AIM Free Fire",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM.3105",
+      "sha256": "a5755f873e38bcdb634ba56052707de8363907a7de44b0b4445f3821d72ad52d",
+      "size": 14315,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menuffm",
+      "name": "Menu Free Fire Max",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Free Fire Max",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
+      "sha256": "4250e5900094ed2333865c6c9a4a02c23124d97be022dac918ebe2df9d591e8b",
+      "size": 21530,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimffm",
+      "name": "ESP-AIM Free Fire Max",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP-AIM Free Fire Max",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+      "sha256": "6e69deb409af785f4f0542ed1d3718502c9219ccabc714375a467e6bffc50c49",
+      "size": 14320,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modgojoffm",
+      "name": "Mod Gojo FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Gojo FFM",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
+      "sha256": "c66238ac67eb47e0cf1c671e8e53cf096b920a2f143587eaea679f1b8b1a2ea6",
+      "size": 1886514,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modignisfft",
+      "name": "Mod IGNIS FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod IGNIS FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20IGNIS%20FFT.3105",
+      "sha256": "38f28a8d11111111111111111111111111111111111111111111111111111138",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modthoffm",
+      "name": "Mod Thỏ FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD VIP - Mod Thỏ FFM",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Th%E1%BB%8F%20FFM.3105",
+      "sha256": "de228a7c4bc28f9d9f674b44b077baa87eff99543fb8c5c5cf1736e68288d79c",
+      "size": 1875964,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modthofft",
+      "name": "Mod Thỏ FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Thỏ FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Th%E1%BB%8F%20FFT.3105",
+      "sha256": "ae84b24f05819a05b7c696e90fad8b74a7c15acc890d093a4a2d4957b9f4d453",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modvipfft",
+      "name": "Mod Vip FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD SKIN - Mod Vip FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFT.3105",
+      "sha256": "4005163e8112f00967dd0733f9fd9c72f291122068d72aef64cde2e871bf1320",
+      "size": 2556170,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.modfftdam",
+      "name": "Mod FFT Dam",
+      "summary": "MOD VIP - Mod FFT Dam",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Dam.3105",
+      "sha256": "6b97bdc13c32050e74a7f11f98cfbc6d8abc500d70581286d950c99587e4574b",
+      "size": 2618230
+    },
+    {
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.modffmtvc12",
+      "name": "Mod FFM TVC 1-2",
+      "summary": "MOD VIP - Mod FFM TVC 1-2",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFM%20TVC%201-2.3105",
+      "sha256": "eeb85be8a57e22db53030df08b9c4d449c487c6e0b6c479ca219b72ae8a5ea00",
+      "size": 1875959
+    },
+    {
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.modffttvc12",
+      "name": "Mod FFT TVC1-2",
+      "summary": "MOD VIP - Mod FFT TVC1-2",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20TVC1-2.3105",
+      "sha256": "ed4bab50a582098d4dffd121d6a35ae9c5394f7ccf7957a09eb5e58084dc2190",
+      "size": 2618233
+    },
+    {
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "identifier": "com.shinn.modffthprolayer",
+      "name": "Mod FFTH prolayer",
+      "summary": "MOD VIP - Mod FFTH prolayer",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20LiQu%C3%A2n%20Mobile.3105",
+      "sha256": "c9c314665836d7219ea4a43a7771aea9fe1079fb4cafe56ae8adb0c189005c9c",
+      "size": 2618238
+    },
+    {
+      "identifier": "com.shinn.lienquanmobile",
+      "name": "Liên Quân Mobile",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "LiQi - Liên Quân Mobile",
       "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
       "category": "LiQi",
       "tags": [
         "LiQi",
-        "Lien Quan Mobile"
+        "Liên Quân Mobile"
       ],
       "publishedAt": "2026-09-19T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/lienquan.3105",
-      "sha256": "374f63c861fd7419e59505877f867499645dfb15091a13e614bc4597b489a557",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 2500000,
       "supportedOS": [
         {
