@@ -509,9 +509,49 @@
       "tags": [
         "MOD VIP"
       ],
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFTH%20prolayer.3105",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20LiQu%C3%A2n%20Mobile.3105",
       "sha256": "c9c314665836d7219ea4a43a7771aea9fe1079fb4cafe56ae8adb0c189005c9c",
       "size": 2618238
+    },
+    {
+      "identifier": "com.shinn.lienquanmobile",
+      "name": "Liên Quân Mobile",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "LiQi - Liên Quân Mobile",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "LiQi",
+      "tags": [
+        "LiQi",
+        "Liên Quân Mobile"
+      ],
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 2500000,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
     }
   ]
 }
