@@ -514,20 +514,20 @@
       "size": 2618238
     },
     {
-      "identifier": "com.shinn.lienquanmobile",
-      "name": "Liên Quân Mobile",
+      "identifier": "com.shinn.modfftalok",
+      "name": "Mod FFT Alok",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "LiQi - Liên Quân Mobile",
+      "summary": "MOD VIP - Mod FFT Alok",
       "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
-      "category": "LiQi",
+      "category": "MOD VIP",
       "tags": [
-        "LiQi"
+        "MOD VIP"
       ],
       "publishedAt": "2026-09-19T00:00:00Z",
-      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105",
-      "sha256": "f2c6a1b6623452a83c81c5558178e5e264737fc3c9b765f81bcca2823ec0f185",
-      "size": 135316,
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Alok.3105",
+      "sha256": "131f252480fe34eacf4e83e71af15429be8c191da99703b1db255ed45736399b",
+      "size": 2556165,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -550,7 +550,85 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.jpeg"
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.spiderfft",
+      "name": "Spider FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD VIP - Spider FFT",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFT.3105",
+      "sha256": "f0348d01b7ee19c56b1dcb9ac49e875a6cbefce6b4dbf511b80a85a373d10165",
+      "size": 2556163,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
+    },
+    {
+      "identifier": "com.shinn.spiderffm",
+      "name": "Spider FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD VIP - Spider FFM",
+      "description": "FeedBack Telegram: @ShinnThieuu\nRepo này là free nếu bạn mua thì bạn đã bị lừa\ncảm ơn đã sử dụng hãy tham gia group Telegram của tôi để không bỏ lỡ thông báo quan trọng. Xin cảm ơn",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFM.3105",
+      "sha256": "55a0073f2d4f16b371b20571a123ecfc554b7f3905e7ad9582042032373d71f0",
+      "size": 1886506,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0621.jpeg"
     }
   ]
 }
