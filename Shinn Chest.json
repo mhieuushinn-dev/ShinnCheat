@@ -287,11 +287,50 @@
       "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     },
     {
+      "identifier": "com.shinn.modgojoffm",
+      "name": "Mod Gojo FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "MOD VIP - Mod Gojo FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD VIP",
+      "tags": [
+        "MOD VIP"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
+      "sha256": "c66238ac67eb47e0cf1c671e8e53cf096b920a2f143587eaea679f1b8b1a2ea6",
+      "size": 1886514,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
       "identifier": "com.shinn.modvipfft",
       "name": "Mod Vip FFT",
       "author": "Shinn Cheat",
       "version": "2009",
-      "summary": "MOD SKIN - Mod Vip FFT",
+      "summary": "MOD VIP - Mod Vip FFT",
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD VIP",
       "tags": [
